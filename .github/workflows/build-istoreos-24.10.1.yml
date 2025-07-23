@@ -1,7 +1,9 @@
 name: "Build iStoreOS 24.10.1 Installer ISO"
 
 on:
- workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build-release:
