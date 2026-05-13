@@ -20,6 +20,7 @@
 - 【第二集 飞牛NAS】https://youtu.be/RRBFc58SwXQ  【B站】https://www.bilibili.com/video/BV1gPXCYyEc2
 - 【第三集 Hyper-V、绿联NAS虚拟机、飞牛虚拟机使用教程】 https://www.bilibili.com/video/BV1BoZVYsE7b
 - 【第四集 PVE虚拟机里如何使用img安装器】https://www.bilibili.com/video/BV1Rx5Qz4EZB
+- 【第五集 绿联NAS安装immortalwrt25.12】https://www.bilibili.com/video/BV1AyZcBsErt/
 
 6. 具体的操作方法是:在安装器所在系统里输入 `ddd` 命令 方可调出安装菜单
    ![localhost lan - VMware ESXi 2025-03-20 10-14-45](https://github.com/user-attachments/assets/ddae80a0-9ff5-4d63-83b5-1f49da18b008)
